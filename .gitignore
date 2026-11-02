@@ -1,0 +1,20 @@
+# Data downloaded at run time
+qm7.mat
+data/
+QM9/
+ 
+# Keras Tuner search results and training checkpoints
+tuner/
+checkpoints/
+*.keras
+*.h5
+*.pt
+ 
+# Python and Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+ 
+# OS files
+.DS_Store
+Thumbs.db
